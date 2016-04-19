@@ -8,4 +8,4 @@ this script make you easy to install.
 # How to use
 after login EC2 Instance, input this 
 
-$ curl -sf https://raw.githubusercontent.com/tadashimishima/Zabbix-for-AWS/master/zabbix_install.sh |sh -s
+    $ curl -sf https://raw.githubusercontent.com/tadashimishima/Zabbix-for-AWS/master/zabbix_install.sh |sh -s
